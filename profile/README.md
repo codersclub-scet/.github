@@ -1,8 +1,13 @@
+<div align="center">
+
 # 👨‍💻 Coders Club - IEDC Sahrdaya 👩‍💻
+
+</div>
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=🚀+Igniting+Ideas;💡+Building+Together;🧠+Sharing+Knowledge;Welcome+to+Innovation!)
+
 
   
 </div>
@@ -60,15 +65,19 @@ We are the **official Coders Club of IEDC Sahrdaya** - a vibrant community of pa
 
 ---
 
+## 🌟 Our Main Project
 
-### 🎯 Current Projects
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iedc-coders-club.vercel.app)
+  
+</div>
+
+### 🎯 Current Project
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **🎪 Event Manager** | Comprehensive web app for college event management and registrations | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Active](https://img.shields.io/badge/-Active-success) |
-| **🏁 Hackathon Portal** | All-in-one platform for conducting and managing online hackathons | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Beta](https://img.shields.io/badge/-Beta-orange) |
-| **🌐 Club Website** | Official website showcasing club activities and achievements | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | ![Live](https://img.shields.io/badge/-Live-brightgreen) |
-| **📱 Mobile App** | Cross-platform app for club members and event updates | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Development](https://img.shields.io/badge/-Development-blue) |
+| **🌐 Coders Club Website** | Official website showcasing club activities, events, and member achievements | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Live](https://img.shields.io/badge/-Live-brightgreen) |
 
 ---
 
@@ -92,7 +101,6 @@ We are the **official Coders Club of IEDC Sahrdaya** - a vibrant community of pa
   
   [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iedc-coders-club.vercel.app)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codersclub_iedcsahrdaya/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourclub)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codersclubscet@gmail.com)
   
 </div>
@@ -148,7 +156,6 @@ We are the **official Coders Club of IEDC Sahrdaya** - a vibrant community of pa
 - 🎨 Maintain code quality and best practices
 
 ---
-
 
 ---
 
