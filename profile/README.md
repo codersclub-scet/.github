@@ -1,6 +1,6 @@
 <!-- Profile README for Coders Club -->
 
-<h1 align="center">👨‍💻 Coders Club - [Your College Name] 👩‍💻</h1>
+<h1 align="center">👨‍💻 Coders Club - IEDC sahrdaya 👩‍💻</h1>
 <p align="center">
   🚀 Igniting Ideas • 💡 Building Together • 🧠 Sharing Knowledge
 </p>
@@ -9,7 +9,7 @@
 
 ### 👋 Welcome to the Coders Club GitHub
 
-We are the official **Coders Club of [Your College Name]**, a community of passionate developers, tech enthusiasts, and innovators who love to explore, learn, and build together!
+We are the official **Coders Club of IEDC sahrdaya**, a community of passionate developers, tech enthusiasts, and innovators who love to explore, learn, and build together!
 
 ---
 
@@ -35,18 +35,18 @@ We are the official **Coders Club of [Your College Name]**, a community of passi
 
 ### 🧑‍💼 Our Team
 
-- 👨‍🏫 **Mentor:** Prof. [Mentor Name]  
-- 👨‍💻 **Lead:** [Your Name or GitHub]  
-- 🤝 **Core Team:** [Add members or link to team page]
+- 👨‍💻 **Lead:** ![Aaron Thomas](https://github.com/arxhr007)
+- 👨‍💻 **Co-Lead:** ![Alexo Mathew](https://github.com/alexo-007) 
+
 
 ---
 
 ### 📲 Connect With Us
 
-- 🌐 [Website](https://your-club-site.com)  
-- 📸 [Instagram](https://instagram.com/yourclub)  
+- 🌐 [Website](https://iedc-coders-club.vercel.app)  
+- 📸 [Instagram]([https://instagram.com/yourclub](https://www.instagram.com/codersclub_iedcsahrdaya/))  
 - 💼 [LinkedIn](https://linkedin.com/in/yourclub)  
-- 📧 Email: [yourclub@email.com]
+- 📧 Email: [codersclubscet@gmail.com]
 
 ---
 
@@ -55,6 +55,3 @@ We are the official **Coders Club of [Your College Name]**, a community of passi
 We encourage students to contribute to our open-source projects.  
 Feel free to check out the repositories and raise issues or PRs.
 
-```bash
-# Clone any project
-git clone https://github.com/CodersClubSCET/project-name
